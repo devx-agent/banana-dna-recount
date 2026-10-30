@@ -1,0 +1,31 @@
+{
+ "banana->human": {
+  "queries": 34928,
+  "with_hit": 14492,
+  "pct_with_hit": 41.5,
+  "mean_pident": 40.6,
+  "len_weighted_pident": 38.5,
+  "mean_query_coverage": 66.7
+ },
+ "human->banana": {
+  "queries": 20652,
+  "with_hit": 7971,
+  "pct_with_hit": 38.6,
+  "mean_pident": 39.0,
+  "len_weighted_pident": 37.4,
+  "mean_query_coverage": 64.5
+ },
+ "identical_aligned_residues_human": 1007378,
+ "codon_bases_equiv": 3022136,
+ "pct_of_3.1Gb_genome_upper_bound": 0.097,
+ "human_proteome_residues": 11456418,
+ "proteome_coding_bases_pct_of_genome": 1.11,
+ "pct_human_proteome_residues_identical_in_banana_best_hit": 8.8,
+ "human_genes_total": 20652,
+ "reciprocal_best_hits": 3443,
+ "pct_human_genes_RBH": 16.7,
+ "rbh_mean_pident": 41.7,
+ "hits_cov50_both": 4812,
+ "pct_human_genes_cov50": 23.3,
+ "brody_7000_over_human_genes_pct": 33.9
+}
